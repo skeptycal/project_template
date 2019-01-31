@@ -1,0 +1,11 @@
+{
+    "name": "skeptycal/project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Treanor",
+            "email": "skeptycal@gmail.com"
+        }
+    ],
+    "require": {}
+}

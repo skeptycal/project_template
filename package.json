@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "**_This is part of my programming creations._**",
+  "main": "bower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Treanor",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "fsevents": "^1.2.7",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "cdnizer": "^3.0.2",
+    "material-colors": "^1.2.6",
+    "swiper": "^4.4.6"
+  }
+}
