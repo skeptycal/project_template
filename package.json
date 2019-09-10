@@ -9,6 +9,7 @@
   "author": "Michael Treanor",
   "license": "MIT",
   "devDependencies": {
+    "set-value": ">=2.0.1"
     "eslint": "^5.12.1",
     "fsevents": "^1.2.7",
     "gulp": "^4.0.0",
